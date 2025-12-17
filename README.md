@@ -19,7 +19,7 @@ and retailer performance using PivotTables, PivotCharts, and VBA automation.
 - Automated dashboard creation using VBA
 
 ## 📷 Dashboard Preview
-![Dashboard Screenshot](Adidas Dashboard.png)
+(Adidas Dashboard.png)
 
 ## ▶️ How to Use
 1. Download the `Adidas-Sales-Dashboard.xlsm` file
